@@ -1,0 +1,6 @@
+[
+    { "id":1, "name": "Glass Half Empty (Part 1)" , "releaseDate": "June 21 2024" , "albumCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMrCmX5tyYxRvKSvnQupZ665TE9ifFa1tgA&s"},
+    { "id":2, "name": "The Cure for Breathing" , "releaseDate": "September 15 2023" , "albumCover":"https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/21/c8/6b21c821-4efb-40ba-dd81-95e8424c214a/193436347150_filteredBobbyDavin.jpg/1200x1200bf-60.jpg"},
+    { "id":3, "name": "Happy Never After" , "releaseDate": "October 7 2022" , "albumCover":"https://i.scdn.co/image/ab67616d0000b273287ea42b54dd7e01a6a55156"},
+    { "id":4, "name": "Long Story Short" , "releaseDate": "May 22 2020" , "albumCover":"https://i.scdn.co/image/ab67616d0000b273dd7bd7afe1756edff721d273"}
+]
