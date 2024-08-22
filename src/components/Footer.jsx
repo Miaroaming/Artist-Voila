@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      footer
-    </div>
+    <footer>
+      © Designed & Developed By Mia, Neel, and Caitlin 2024
+    </footer>
   )
 }
 
