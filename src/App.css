@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Orbitron:wght@400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Orbitron:wght@400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../public/images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.biography {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    color: rgb(255, 61, 61);
+    font-family: "Baskervville SC", serif;
+  }
+  h2, h3, p{
+    font-family: 'Nunito sans', sans-serif;
+    color: white;
+  }
+
+  .i_timeliner_box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+    h2 {
+      font-family: "Baskervville SC", serif;
+      font-size: 30px;
+    }
+  }
+}
