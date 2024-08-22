@@ -1,3 +1,42 @@
+
+.music-card-box {
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+  }
+  
+  .music-card {
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .card-description {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .music-img-cont {
+    width: 200px; 
+    height: 200px; 
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .music-img-cont img {
+    width: 200px; 
+    height: 200px; 
+    object-fit: cover;
+    border: 1px solid #000000;
+    
+  }
+
 /* Global Reset */
 * {
   margin: 0;
@@ -45,3 +84,4 @@ footer {
   background-size: cover;
   background-position: center;
 }
+
