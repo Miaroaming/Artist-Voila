@@ -3,8 +3,8 @@ import React from 'react'
 const Home = () => {
   return (
     <>
+        {/* hero image */}
         <div className='hero-image'>
-            <img src='/img/site-img/voila-hero.jpeg' alt='picture of the band'/>
         </div>
     </>
   )

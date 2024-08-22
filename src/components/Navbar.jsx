@@ -5,9 +5,9 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <div className='logo'>
-            <h2> VOILA </h2>
-        </div>
+        {/* band name title */}
+        <h2 className='header-title'> VOILA </h2>
+        {/* list items/links */}
         <ul>
             <Link to='/'> Home </Link>
             <Link to='/biography'> Biography </Link>
